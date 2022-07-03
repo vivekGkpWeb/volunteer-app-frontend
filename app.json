@@ -1,0 +1,14 @@
+{
+  "name": "volunteer-app-frontend",
+  "description": "",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
