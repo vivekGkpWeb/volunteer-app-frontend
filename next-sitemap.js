@@ -1,6 +1,6 @@
 module.exports = {
   siteUrl: 'https://dev-volunteer-app-frontend.herokuapp.com/',
-  generateRobotsTxt: true,
+  generateRobotsTxt: false,
   // optional
   // robotsTxtOptions: {
   //   additionalSitemaps: [
